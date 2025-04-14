@@ -53,7 +53,7 @@ class CfgWeapons
 			{
 				class Head
 				{
-					hitpointName = HitHead;
+					hitpointName = "HitHead";
 					armor = 4;
 					passThrough = 0.5;
 				};
@@ -72,7 +72,7 @@ class CfgWeapons
 			{
 				class Head
 				{
-					hitpointName = HitHead;
+					hitpointName = "HitHead";
 					armor = 4;
 					passThrough = 0.5;
 				};
@@ -91,7 +91,7 @@ class CfgWeapons
             {
                 class Head
                 {
-                    hitpointName = HitHead;
+                    hitpointName = "HitHead";
                     armor = 6;
                     passThrough = 0.5;
                 };
@@ -110,7 +110,7 @@ class CfgWeapons
             {
                 class Head
                 {
-                    hitpointName = HitHead;
+                    hitpointName = "HitHead";
                     armor = 8;
                     passThrough = 0.5;
                 };
